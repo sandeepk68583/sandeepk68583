@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node, Api's, PHP, Shopify, WordPress**
 
-- 📫 How to reach me **sandeepk6858@gmail.com**
+- 📫 How to reach me **sandeepk68583@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
